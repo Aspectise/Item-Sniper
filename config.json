@@ -1,0 +1,26 @@
+{
+    "Webhook": {
+        "Enabled": false,
+        "Url": ""
+    },
+
+    "Buy_cookies": [
+        ""
+    ],
+
+    "Check_cookie": "",
+
+    "Items": {
+        "item id": expected price
+    },
+
+    "Global_Logs": {
+        "Anonymous": false
+    },
+    
+    "Discord": {
+        "Enabled": false,
+        "Token": "",
+        "Owner_id": []
+    }
+}
